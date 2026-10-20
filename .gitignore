@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.db
+*.mp4
+*.avi
