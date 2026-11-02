@@ -87,6 +87,7 @@ EXERCICES = {
     "pompes": Exercice("pompes", ("epaule", "coude", "poignet"), 150, 100),
     "squats": Exercice("squats", ("hanche", "genou", "cheville"), 160, 100),
     "curl biceps": Exercice("curl biceps", ("epaule", "coude", "poignet"), 150, 60),
+    "chest fly": Exercice("chest fly", ("epaule", "coude", "poignet"), 130, 100),
 }
 
 
